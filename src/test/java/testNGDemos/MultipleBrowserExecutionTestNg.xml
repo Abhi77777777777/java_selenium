@@ -1,0 +1,1 @@
+<suit name ="multiple browser exectuion" parallel ="test" thread-count ="2">

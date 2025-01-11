@@ -1,0 +1,10 @@
+<suite name="parallel execution" parallel = "test" thread-count ="2">
+    <test name ="login execution">
+        <classes>
+            <class name = "testNGDemos.classLogin"/>
+
+        </classes>>
+        <classes>
+                {
+    </test>>
+</suite>>

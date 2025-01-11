@@ -1,0 +1,8 @@
+<suite name = "multiple class execution">
+    <test name ="functional testing">
+            <classes>
+                    <class name ="testNGDemos.classLogin"/>
+                      <class name="testNGDemos.classPackage"/>
+            </classes>
+    </test>
+</suite>

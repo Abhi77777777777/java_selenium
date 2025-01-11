@@ -1,0 +1,13 @@
+<suite name="group execution">
+    <test name="smoke testing">
+        <groups>
+            <run>
+                <include name="regression"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="testNGDemos.GroupClassA"/>
+            <class name="testNGDemos.GroupClassB"/>
+        </classes>
+    </test>
+</suite>

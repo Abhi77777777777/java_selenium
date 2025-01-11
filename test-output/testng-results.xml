@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-19T10:11:52 IST" name="Default Suite" finished-at="2024-04-19T10:11:58 IST" duration-ms="6097">
+    <groups>
+    </groups>
+    <test started-at="2024-04-19T10:11:52 IST" name="Selenium_Training" finished-at="2024-04-19T10:11:58 IST" duration-ms="6097">
+      <class name="testNGDemos.DataDrivernTestingExcellnTestNG">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:testNGDemos.DataDrivernTestingExcellnTestNG@3ba9ad43]" started-at="2024-04-19T10:11:52 IST" name="launchApplication" finished-at="2024-04-19T10:11:54 IST" duration-ms="2301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNGDemos.DataDrivernTestingExcellnTestNG@3ba9ad43]" started-at="2024-04-19T10:11:55 IST" name="loginTest" data-provider="loginData" finished-at="2024-04-19T10:11:57 IST" duration-ms="1630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[manzoor]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[manz@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5678673459]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[manz@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Banglore]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNGDemos.DataDrivernTestingExcellnTestNG@3ba9ad43]" started-at="2024-04-19T10:11:57 IST" name="loginTest" data-provider="loginData" finished-at="2024-04-19T10:11:58 IST" duration-ms="1485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mehadhi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[medadhi@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234567890]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[manz@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dehli]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testNGDemos.DataDrivernTestingExcellnTestNG@3ba9ad43]" started-at="2024-04-19T10:11:58 IST" name="closeBrowser" finished-at="2024-04-19T10:11:58 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testNGDemos.DataDrivernTestingExcellnTestNG -->
+    </test> <!-- Selenium_Training -->
+  </suite> <!-- Default Suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+<suite name="multiple class execution" >
+    <test name ="multiple class">
+        <classes>
+            <class name="Assignment6.parallel_execution.AddToCartTest"/>
+            <class name="Assignment6.parallel_execution.LoginTest"/>
+        </classes>
+    </test>
+
+
+</suite>

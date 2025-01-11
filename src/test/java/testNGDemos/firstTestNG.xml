@@ -1,0 +1,13 @@
+<suite name="multiple class execution" >
+    <test name ="multiple class">
+        <classes>
+            <class name="testNGDemos.ClassA"/>
+            <class name="testNGDemos.ClassB"/>
+        </classes>
+    </test>
+    <test name = "single class">
+        <classes>
+            <class name = "testNGDemos.ClassA"/>
+        </classes>
+    </test>
+</suite>
